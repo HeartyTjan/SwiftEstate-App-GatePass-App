@@ -68,3 +68,4 @@ git push -u origin dev || {
 echo "✅ Repo '$repo_name' created successfully and branches 'master' and 'dev' pushed."
 
 read -p "Press Enter to exit..."
+
