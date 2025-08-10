@@ -1,0 +1,10 @@
+POST http://localhost:8080/register/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-03-12T173338.400.json
+
+###
+
